@@ -1,9 +1,9 @@
 {
-  "name": "sitemap-generator",
-  "version": "0.0.0-semantically-released",
-  "description": "Easily create XML sitemaps for your website.",
-  "homepage": "https://github.com/lgraubner/sitemap-generator",
-  "author": "Lars Graubner <mail@larsgraubner.de> (https://larsgraubner.com)",
+  "name": "@ragnaroksj/sitemap-generator",
+  "version": "1.0.0",
+  "description": "Easily create XML sitemaps for your website with url-parse 1.5.10 based on sitemap generator",
+  "homepage": "https://github.com/ragnaroksj/sitemap-generator",
+  "author": "ragnaroksj <rangaroksj@gmail.com>",
   "keywords": [
     "sitemap",
     "xml",
