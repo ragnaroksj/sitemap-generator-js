@@ -1,6 +1,6 @@
 {
   "name": "@ragnaroksj/sitemap-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily create XML sitemaps for your website with url-parse 1.5.10 based on sitemap generator",
   "homepage": "https://github.com/ragnaroksj/sitemap-generator",
   "author": "ragnaroksj <rangaroksj@gmail.com>",
