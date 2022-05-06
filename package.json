@@ -49,6 +49,11 @@
     "lint-staged": "7.3.0",
     "prettier": "1.14.3"
   },
+  "overrides": {
+    "simplecrawler": {
+      "async@<3.2.2": "^3.2.2"
+    }
+  },
   "scripts": {
     "lint": "eslint src",
     "test": "jest",
